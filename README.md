@@ -59,6 +59,9 @@ AI-Resume-Analyzer/
 │── .env
 │── README.md
 
+Screenshot
+<img width="654" height="523" alt="Screenshot 2026-02-17 194828" src="https://github.com/user-attachments/assets/bcf8e353-a0d9-486e-91df-aace53e2355a" />
+
 
 ⭐ Future Improvements
 
