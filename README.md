@@ -64,7 +64,6 @@ Screenshot
 
 
 ⭐ Future Improvements
-
 Resume score prediction
 Job description matching
 ATS compatibility check
