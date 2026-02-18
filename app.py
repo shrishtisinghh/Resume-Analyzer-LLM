@@ -10,7 +10,7 @@ st.write("Upload your resume and get AI-powered career insights")
 # -----------------------------
 # OpenRouter API Configuration
 # -----------------------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR API KEY HERE"
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
@@ -96,3 +96,4 @@ if uploaded_file:
         st.subheader("📊 Analysis Result")
 
         st.write(result)
+
